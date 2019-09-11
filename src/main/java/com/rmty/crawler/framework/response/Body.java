@@ -9,12 +9,7 @@ import java.io.BufferedReader;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 
-/**
- * 响应Body
- *
- *
- * @date 2018/1/12
- */
+
 public class Body {
 
     private final InputStream inputStream;
