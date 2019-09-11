@@ -5,12 +5,7 @@ import lombok.Getter;
 
 import java.io.InputStream;
 
-/**
- * 响应对象
- *
- *
- * @date 2018/1/11
- */
+
 public class Response {
 
     @Getter
